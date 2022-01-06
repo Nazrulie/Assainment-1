@@ -16,7 +16,7 @@ h1{
 }
 .helf{
     width: 50%;
-    padding-left: 2%%;
+    padding-left: 2%;
     padding-right: 2%;
 }
 .helf img{
@@ -68,4 +68,72 @@ h1{
 .maja{
 text-align: center;
 padding-bottom: 2%;
+}
+
+.bosamaya{
+    display: flex;
+    width: 100%;
+    padding-right: 10%;
+    
+}
+.bosamaya img{
+    width: 80%;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-left: 10%;
+}
+.bampas{
+    padding-right: 2%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.coto{
+    font-size: 30px;
+}
+.read{
+    text-decoration: none;
+    background-image:linear-gradient(red, blue);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5%;
+}
+.ection-3{
+    display: flex;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 6%;
+    margin-bottom: 10%;
+}
+.ection-3 img{
+    width: 100%;
+    padding-right: 2%;
+    padding-left: 15%;
+    margin-left: 10%;
+}
+.texr{
+    text-align: center;
+}
+.ection-4{
+    display: flex;
+    padding-left:15%;
+    padding-right: 5%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+.ection-4 img{
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.put{
+    text-align: center;
+    background-color: black;
+}
+.me{
+    color: white;
+}
+.tor{
+    text-align: center;
+    background-color: black;
+    margin: 0px;
 }
