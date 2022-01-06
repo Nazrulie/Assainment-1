@@ -7,17 +7,22 @@ body{
 h1{
     font-size: 40px;
 }
-section{
+.ection{
     display: flex;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
 }
 .helf{
     width: 50%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 2%%;
+    padding-right: 2%;
 }
 .helf img{
-    width: 90%;
-    padding-right: 5%;
+    width: 70%;
+    padding-right: 2%;
+    padding-left: 7%;
     
 }
 .Explore-Now{
@@ -31,6 +36,36 @@ section{
 .footer-margin{
     padding-top: 10%;
 }
-h2{
+.mission{
     text-align: center;
+}
+.tinrong{
+    background-color: thistle;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    border-radius: 5%;
+    margin-left: 2%;
+    
+}
+.tinrong1{
+    background-color: wheat;
+    padding-right: 25px ;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    border-radius: 5%;
+    margin-left: 2%;
+    
+}
+.tinrong2{
+    background-color: yellow;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    border-radius: 5%;
+    margin-left: 2%;
+}
+.maja{
+text-align: center;
+padding-bottom: 2%;
 }
